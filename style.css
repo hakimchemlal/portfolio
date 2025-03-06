@@ -306,8 +306,8 @@ section {
 }
 
 .section-container {
-  gap: 4rem;
-  height: 80%;
+  gap: 7rem;
+  height: 97%;
 }
 
 .section__pic-container {
@@ -375,6 +375,12 @@ article .icon {
 }
 
 .project-img {
+  border-radius: 2rem;
+  width: 90%;
+  height: 90%;
+  margin-top: 70px;
+}
+.project-img-3 {
   border-radius: 2rem;
   width: 90%;
   height: 90%;
